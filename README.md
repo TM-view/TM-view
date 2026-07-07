@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Nattawut 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=Game+Developer+%7C+Unity+C%23+%2F+Godot+GDScript;Full+Stack+Learner+%7C+Flutter+%2F+JS;Always+building+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=Seeking+Internship+Opportunities;Game+Developer+%7C+Unity+C%23+%2F+Godot+GDScript;Software+Engineer+%7C+Full+Stack+%2F+Mobile+App;" alt="Typing SVG" />
 </p>
 
 ---
